@@ -3,4 +3,4 @@
 ## Screenshots
 
 ### Sample Page
-![Sample Page](screeshots/image1.png)
+[![Sample Page](screeshots/image1.png)]
